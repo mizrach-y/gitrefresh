@@ -1,2 +1,0 @@
-"Test commit for git tutorials"
-"commit tests 03/02/21" 
